@@ -1,5 +1,5 @@
 <a href="#">
-  <img src="https://raw.githubusercontent.com/NDRELIAN/JulianTovar/main/images/foto.jpg" width="400" height="1000" alt="Bienvenido a mi perfil!">
+  <img src="https://raw.githubusercontent.com/NDRELIAN/JulianTovar/main/images/foto.jpg" width="600" height="1000" alt="Bienvenido a mi perfil!">
 </a>
 
 <p align="center">
