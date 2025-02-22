@@ -1,6 +1,8 @@
-<a href="#">
-  <img src="https://raw.githubusercontent.com/NDRELIAN/JulianTovar/main/images/foto.jpg" width="350" height="500" alt="Bienvenido a mi perfil!">
-</a>
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/NDRELIAN/JulianTovar/main/images/foto.jpg" width="1000" height="400" alt="Bienvenido a mi perfil!">
+  </a>
+</p>
 
 <p align="center">
   🚀 Desarrollador Full Stack apasionado por la tecnología, la enseñanza y la creación de experiencias digitales innovadoras.
