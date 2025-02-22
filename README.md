@@ -1,4 +1,4 @@
-<a href="#"><img src="https://via.placeholder.com/1000x400.png?text=Bienvenido+a+mi+perfil%21" /></a>
+<a href="#"><img src="https:/github.com/NDRELIAN/JulianTovar/images/foto.jpg/1000x400.png?text=Bienvenido+a+mi+perfil%21" /></a>
 
 <p align="center">
   🚀 Desarrollador Full Stack apasionado por la tecnología, la enseñanza y la creación de experiencias digitales innovadoras.
