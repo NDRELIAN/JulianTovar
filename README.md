@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/NDRELIAN/JulianTovar/main/images/foto.jpg" width="350" height="500" alt="Bienvenido a mi perfil!">
+    <img src="https://raw.githubusercontent.com/NDRELIAN/JulianTovar/main/images/bio.png" width="1000" height="300" alt="Bienvenido a mi perfil!">
   </a>
 </p>
 
