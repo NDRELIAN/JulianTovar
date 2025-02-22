@@ -33,11 +33,7 @@
 
 ## 🌍 Conéctate conmigo  
 
-<p align="center">
-  <a href="https://twitter.com/tu_usuario">
-    <img src="https://img.shields.io/badge/Twitter-%40tu_usuario-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tu_usuario/">
+  <a href="https://www.linkedin.com/in/julian-andres-tovar-pineda/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
