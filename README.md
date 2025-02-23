@@ -37,10 +37,8 @@ As a former university lecturer, I have trained and mentored new developers in C
 ---
 
 ## 🌍 Conéctate conmigo  
-
   <a href="https://www.linkedin.com/in/julian-andres-tovar-pineda/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
-
 ---
