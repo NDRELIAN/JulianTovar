@@ -6,6 +6,11 @@
 
 <p align="center">
   🚀 Desarrollador Full Stack apasionado por la tecnología, la enseñanza y la creación de experiencias digitales innovadoras.
+Results-oriented Systems Engineer with over 6 years of experience leading software development, data analysis, and project management initiatives. Skilled in full-stack development (JavaScript, Node.js, NestJS, PostgreSQL, React.js), cloud-based solutions, DevOps (Docker, GitHub Actions), and game development (C# with Unity).
+
+Proven ability to manage complex, cross-functional projects by applying Agile methodologies (Scrum, Kanban) and leading high-performance teams. Strong expertise in privacy compliance, cloud architecture, and designing scalable, customer-centric solutions.
+
+As a former university lecturer, I have trained and mentored new developers in C++, Java, and JavaScript, strengthening my ability to lead teams and drive knowledge-sharing initiatives. Passionate about bridging the gap between technology and business needs, translating regulatory requirements into actionable technical solutions, and making data-driven strategic decisions.
 </p>
 
 ---
